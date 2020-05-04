@@ -1,1 +1,1 @@
-#define 'board'
+input "board"
