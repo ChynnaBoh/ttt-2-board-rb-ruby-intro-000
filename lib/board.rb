@@ -1,1 +1,1 @@
-input "board"
+input = "board"
