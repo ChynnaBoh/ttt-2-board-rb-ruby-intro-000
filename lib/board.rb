@@ -1,2 +1,3 @@
-x = 'board'
-=> 'board'
+lib/board.rb
+'board'
+'board' = 'row'
