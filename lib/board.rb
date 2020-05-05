@@ -1,2 +1,3 @@
 board = "Board"
-board = "row"
+board = row
+row = [" "," "," "," "," "," "," "," "," "]
