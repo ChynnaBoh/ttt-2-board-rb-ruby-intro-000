@@ -1,3 +1,3 @@
 begin
   puts
-  "board"
+  X = "board"
