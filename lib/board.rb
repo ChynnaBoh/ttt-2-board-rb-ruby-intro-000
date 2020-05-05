@@ -1,3 +1,3 @@
 board = "Board"
-"row = Array.new"
-row = board
+"row" = Array.new
+"row" = "board"
