@@ -1,1 +1,1 @@
-@name = 'board'
+#{board} = #{lib/board.rb}
