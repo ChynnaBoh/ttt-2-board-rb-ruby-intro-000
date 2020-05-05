@@ -1,2 +1,1 @@
-def
-  puts 'Board'
+#lib/board.rb = 'board'
