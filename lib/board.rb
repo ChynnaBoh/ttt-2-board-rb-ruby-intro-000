@@ -1,1 +1,1 @@
-Name = "board"
+Tic Tac Toe = "board"
