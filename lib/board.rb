@@ -1,1 +1,1 @@
-"Board" = "Row"
+"Board" = "row"
