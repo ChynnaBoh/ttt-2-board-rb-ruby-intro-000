@@ -1,1 +1,1 @@
-#lib/board.rb = 'board'
+lib/board.rb = 'board'
