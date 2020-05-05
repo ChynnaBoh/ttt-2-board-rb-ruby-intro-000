@@ -1,3 +1,2 @@
 board = "Board"
-"row" = Array.new
-"row" = "board"
+my_array = "Row"
