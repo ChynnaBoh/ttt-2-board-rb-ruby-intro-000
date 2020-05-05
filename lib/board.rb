@@ -1,2 +1,2 @@
 board = "Board"
-board = "Row"
+"Board" = "Row"
