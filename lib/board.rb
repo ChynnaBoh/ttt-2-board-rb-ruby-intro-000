@@ -1,2 +1,2 @@
-"Board" = x
-x = "row"
+"Board"
+"Board" = "row"
