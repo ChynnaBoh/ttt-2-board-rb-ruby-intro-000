@@ -1,3 +1,2 @@
-begin
-  puts
-  X = "board"
+x = 'board'
+=> 'board'
