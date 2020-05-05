@@ -1,3 +1,3 @@
 board = "Board"
-my_array = "Row"
-"Row" = "Board"
+Array.new = "Row"
+"Board" = "Row"
