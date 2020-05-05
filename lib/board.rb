@@ -1,2 +1,1 @@
-"Board"
-"Board" = "row"
+puts "Board"
