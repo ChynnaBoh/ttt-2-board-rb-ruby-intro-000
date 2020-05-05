@@ -1,1 +1,2 @@
-title = 'Board'
+def
+  puts 'Board'
