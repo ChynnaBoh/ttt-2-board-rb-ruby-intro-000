@@ -1,1 +1,1 @@
-x = 'board'
+name = 'board'
