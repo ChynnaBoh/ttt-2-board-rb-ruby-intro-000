@@ -1,1 +1,1 @@
-puts = "board"
+title = 'board'
