@@ -1,1 +1,1 @@
-Tic Tac Toe = "board"
+#name{board}
