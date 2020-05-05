@@ -1,1 +1,1 @@
-lib/board.rb = 'board'
+x = 'board'
