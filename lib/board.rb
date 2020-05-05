@@ -1,1 +1,1 @@
-#{board} = #{lib/board.rb}
+Name = board
