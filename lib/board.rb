@@ -1,1 +1,1 @@
-title = 'board'
+title = 'Board'
