@@ -1,2 +1,1 @@
-Array.new = row
-row = "board"
+board = "Board"
