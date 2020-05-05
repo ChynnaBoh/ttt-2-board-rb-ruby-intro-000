@@ -1,3 +1,3 @@
 board = "Board"
-Board = "row"
+row = Array.new
 row = [" "," "," "," "," "," "," "," "," "]
